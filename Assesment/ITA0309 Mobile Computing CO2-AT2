@@ -1,1 +1,27 @@
-ITA0309 Mobile Computing CO2-AT2
+1. Figma-Based Mobile IP Communication Workflow Analysis (BL4 – Analyze)
+Design an interactive Figma prototype illustrating the complete workflow of Mobile IP communication
+when a Mobile Node moves from its Home Network to a Foreign Network. Your design should include
+the Home Agent (HA), Foreign Agent (FA), Correspondent Node (CN), Care-of Address (CoA),
+Registration Process, and Packet Tunneling.
+Analyze the communication process by identifying:
+● The purpose of each network component.
+● Points where packet delay or packet loss may occur.
+● The effect of node mobility on communication performance.
+● Possible improvements to reduce latency.
+Deliverables:
+● Figma (.fig) design
+● GitHub repository containing exported images/PDF and documentation (README).
+2. Comparative Network Architecture Design Using Figma (BL4 – Analyze)
+Using Figma or draw.io, create a comparative architectural diagram showing both a Cellular Wireless
+Network and a Mobile Ad Hoc Network (MANET) operating in the same smart city environment.
+Analyze the architectures by comparing:
+● Infrastructure dependency.
+● Routing mechanisms.
+● Scalability.
+● Fault tolerance.
+● Mobility support.
+● Suitable application scenarios.
+Highlight the advantages and limitations of each architecture through annotations in your design.
+Deliverables:
+● Editable design file.
+● GitHub repository with screenshots, comparison report, and design assets.
